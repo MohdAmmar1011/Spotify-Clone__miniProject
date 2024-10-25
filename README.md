@@ -1,4 +1,4 @@
-# Spotify-Clone_mini_project
+# Spotify-Clone___(miniProject)
 
 # Spotify Clone
 A simple Spotify Clone created using HTML and CSS. This project demonstrates fundamental web design and layout skills.
